@@ -1,0 +1,7 @@
+flutter pub cache clean
+flutter pub upgrade win32
+flutter channel stable
+flutter pub get
+flutter pub outdated
+flutter pub upgrade --major-versions
+flutter run
